@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Lekhasriii
 - 👀 I’m interested in dancing
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate  with ayesha
+- 💞️ I’m looking to collaborate  with coders
 - 📫 How to reach me text me
 - 😄 Pronouns: lekha
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:....
 
 <!---
 Lekhasriii/Lekhasriii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
